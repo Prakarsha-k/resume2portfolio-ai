@@ -48,8 +48,11 @@ Resume and portfolio data are stored in MongoDB for persistent access.
 ### Prerequisites
 
 1.Python 3.8+
+
 2.MongoDB Atlas account (for cloud DB)
+
 3.OpenRouter API key (for GPT-3.5)
+
 4.pip (Python package manager)
 
 ##  Installation
